@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "yugaohech",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Xaioyublock"
+      },
+      {
+        "value": "CUSTOM:Xaioyublock"
+      },
+      {
+        "value": "CUSTOM:Xaioyublock"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:YuGun"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:YuGun"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:YuGao"
+    },
+    "name": "yugaopeifang",
+    "namespace": "mod"
+  }
+}

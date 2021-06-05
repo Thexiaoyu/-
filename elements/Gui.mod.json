@@ -1,0 +1,122 @@
+{
+  "_fv": 18,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "这里是不知道叫啥的gui",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "这里是不知道叫啥的gui",
+          "x": 171,
+          "y": 57
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "清除生物",
+          "onClick": {
+            "name": "AjbdAnXiaAnJianShi"
+          },
+          "width": 45,
+          "height": 20,
+          "name": "清除生物",
+          "x": 134,
+          "y": 90
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "清除掉落物",
+          "onClick": {
+            "name": "Rjbd"
+          },
+          "width": 50,
+          "height": 20,
+          "name": "清除掉落物",
+          "x": 183,
+          "y": 90
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "d343b89c00af9392401b5164971a50bbe5474cf0da39a3ee5e6b4b0d3255bfef95601890afd80709da39a3ee5e6b4b0d3255bfef95601890afd8070905ccb9558d135c6627fbe265fa4dab9d.png",
+          "use1Xscale": true,
+          "name": "d343b89c00af9392401b5164971a50bbe5474cf0da39a3ee5e6b4b0d3255bfef95601890afd80709da39a3ee5e6b4b0d3255bfef95601890afd8070905ccb9558d135c6627fbe265fa4dab9d.png",
+          "x": 120,
+          "y": 1
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "开启飞行",
+          "onClick": {
+            "name": "Kqfx"
+          },
+          "width": 45,
+          "height": 20,
+          "name": "开启飞行",
+          "x": 134,
+          "y": 121
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "关闭飞行",
+          "onClick": {
+            "name": "Gbfx"
+          },
+          "width": 45,
+          "height": 20,
+          "name": "关闭飞行",
+          "x": 185,
+          "y": 122
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "传送小雨世界",
+          "onClick": {
+            "name": "Yzl"
+          },
+          "width": 55,
+          "height": 20,
+          "name": "传送小雨世界",
+          "x": 241,
+          "y": 90
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "返回主世界",
+          "onClick": {
+            "name": "Yzlm"
+          },
+          "width": 50,
+          "height": 20,
+          "name": "返回主世界",
+          "x": 240,
+          "y": 122
+        }
+      }
+    ]
+  }
+}

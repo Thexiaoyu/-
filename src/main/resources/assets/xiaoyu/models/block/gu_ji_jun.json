@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xiaoyu:blocks/guaji",
+    "up": "xiaoyu:blocks/guaji",
+    "north": "xiaoyu:blocks/guaji",
+    "east": "xiaoyu:blocks/guaji",
+    "south": "xiaoyu:blocks/guaji",
+    "west": "xiaoyu:blocks/guaji",
+    "particle": "xiaoyu:blocks/guaji"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "changpian",
+    "name": "呱唧笑声",
+    "description": "具有很大的感染力",
+    "creativeTab": {
+      "value": "CUSTOM:Xiaoyuxxk"
+    },
+    "music": {
+      "value": "CUSTOM:guajixiaosheng"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "_fv": 18,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "K",
+    "keyBindingName": "×÷±×²Ëµ¥",
+    "keyBindingCategoryKey": "creative",
+    "onKeyPressed": {
+      "name": "Zbcdopen"
+    }
+  }
+}

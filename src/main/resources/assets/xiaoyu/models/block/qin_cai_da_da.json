@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xiaoyu:blocks/20210505_21572781_avatar",
+    "up": "xiaoyu:blocks/20210505_21572781_avatar",
+    "north": "xiaoyu:blocks/20210505_21572781_avatar",
+    "east": "xiaoyu:blocks/20210505_21572781_avatar",
+    "south": "xiaoyu:blocks/20210505_21572781_avatar",
+    "west": "xiaoyu:blocks/20210505_21572781_avatar",
+    "particle": "xiaoyu:blocks/20210505_21572781_avatar"
+  }
+}

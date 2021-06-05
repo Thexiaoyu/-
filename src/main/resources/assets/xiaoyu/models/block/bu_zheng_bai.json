@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xiaoyu:blocks/bzb",
+    "up": "xiaoyu:blocks/bzb",
+    "north": "xiaoyu:blocks/bzb",
+    "east": "xiaoyu:blocks/bzb",
+    "south": "xiaoyu:blocks/bzb",
+    "west": "xiaoyu:blocks/bzb",
+    "particle": "xiaoyu:blocks/bzb"
+  }
+}

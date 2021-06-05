@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xiaoyu:blocks/xiao_yu_gai_",
+    "up": "xiaoyu:blocks/xiao_yu_gai_",
+    "north": "xiaoyu:blocks/xiao_yu_gai_",
+    "east": "xiaoyu:blocks/xiao_yu_gai_",
+    "south": "xiaoyu:blocks/xiao_yu_gai_",
+    "west": "xiaoyu:blocks/xiao_yu_gai_",
+    "particle": "xiaoyu:blocks/xiao_yu_gai_"
+  }
+}

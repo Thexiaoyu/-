@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "xiaoyu:xiaoyuworld_portal_ew"
+    },
+    "axis=x": {
+      "model": "xiaoyu:xiaoyuworld_portal_ns"
+    },
+    "inventory": {
+      "model": "xiaoyu:xiaoyuworld_portal_ns"
+    }
+  }
+}

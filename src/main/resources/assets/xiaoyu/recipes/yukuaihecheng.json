@@ -1,0 +1,42 @@
+{
+  "group": "yukuaihecheng",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "xiaoyu:yu_ding"
+    },
+    "1": {
+      "item": "xiaoyu:yu_ding"
+    },
+    "2": {
+      "item": "xiaoyu:yu_ding"
+    },
+    "3": {
+      "item": "xiaoyu:yu_ding"
+    },
+    "4": {
+      "item": "xiaoyu:yu_ding"
+    },
+    "5": {
+      "item": "xiaoyu:yu_ding"
+    },
+    "6": {
+      "item": "xiaoyu:yu_ding"
+    },
+    "7": {
+      "item": "xiaoyu:yu_ding"
+    },
+    "8": {
+      "item": "xiaoyu:yu_ding"
+    }
+  },
+  "result": {
+    "item": "xiaoyu:xaioyublock",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xiaoyu:blocks/qqtu_pian_20210506193505",
+    "up": "xiaoyu:blocks/qqtu_pian_20210506193505",
+    "north": "xiaoyu:blocks/qqtu_pian_20210506193505",
+    "east": "xiaoyu:blocks/qqtu_pian_20210506193505",
+    "south": "xiaoyu:blocks/qqtu_pian_20210506193505",
+    "west": "xiaoyu:blocks/qqtu_pian_20210506193505",
+    "particle": "xiaoyu:blocks/qqtu_pian_20210506193505"
+  }
+}

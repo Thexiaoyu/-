@@ -1,0 +1,34 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "yugao",
+    "customModelName": "Normal",
+    "name": "–°”Í∏Â",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Xiaoyuxxk"
+    },
+    "toolType": "MultiTool",
+    "harvestLevel": 119999,
+    "efficiency": 119999.0,
+    "attackSpeed": 100.0,
+    "enchantability": 119999,
+    "damageVsEntity": 119999.0,
+    "usageCount": 119999,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [
+      {
+        "value": "CUSTOM:YuDing"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onRightClickedInAir": {
+      "name": "YuGaoDangYouJianDianJiKongQiShi"
+    }
+  }
+}

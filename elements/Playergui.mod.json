@@ -1,0 +1,97 @@
+{
+  "_fv": 18,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "作弊菜单",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "作弊菜单",
+          "x": 193,
+          "y": 60
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "开启飞行",
+          "onClick": {
+            "name": "Kqfx"
+          },
+          "width": 45,
+          "height": 20,
+          "name": "开启飞行",
+          "x": 134,
+          "y": 92
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "清除生物",
+          "onClick": {
+            "name": "AjbdAnXiaAnJianShi"
+          },
+          "width": 45,
+          "height": 20,
+          "name": "清除生物",
+          "x": 183,
+          "y": 92
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "清除掉落物",
+          "onClick": {
+            "name": "Rjbd"
+          },
+          "width": 45,
+          "height": 20,
+          "name": "清除掉落物",
+          "x": 133,
+          "y": 114
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "进入小雨维度",
+          "onClick": {
+            "name": "Yzl"
+          },
+          "width": 55,
+          "height": 20,
+          "name": "进入小雨维度",
+          "x": 237,
+          "y": 91
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "d343b89c00af9392401b5164971a50bbe5474cf0da39a3ee5e6b4b0d3255bfef95601890afd80709da39a3ee5e6b4b0d3255bfef95601890afd8070905ccb9558d135c6627fbe265fa4dab9d.png",
+          "use1Xscale": true,
+          "name": "d343b89c00af9392401b5164971a50bbe5474cf0da39a3ee5e6b4b0d3255bfef95601890afd80709da39a3ee5e6b4b0d3255bfef95601890afd8070905ccb9558d135c6627fbe265fa4dab9d.png",
+          "x": 123,
+          "y": 20
+        }
+      }
+    ],
+    "onOpen": {
+      "name": "Oepnguizhixing"
+    }
+  }
+}

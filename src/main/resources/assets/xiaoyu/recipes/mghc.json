@@ -1,0 +1,16 @@
+{
+  "group": "mghc",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "xiaoyu:xaioyublock"
+    },
+    {
+      "item": "xiaoyu:xaioyublock"
+    }
+  ],
+  "result": {
+    "item": "xiaoyu:yu_gun",
+    "count": 1
+  }
+}

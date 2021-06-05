@@ -1,0 +1,42 @@
+{
+  "group": "xxzzhc",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "xiaoyu:xxzz"
+    },
+    "1": {
+      "item": "xiaoyu:xxzz"
+    },
+    "2": {
+      "item": "xiaoyu:xxzz"
+    },
+    "3": {
+      "item": "xiaoyu:xxzz"
+    },
+    "4": {
+      "item": "xiaoyu:xxzz"
+    },
+    "5": {
+      "item": "xiaoyu:xxzz"
+    },
+    "6": {
+      "item": "xiaoyu:xxzz"
+    },
+    "7": {
+      "item": "xiaoyu:xxzz"
+    },
+    "8": {
+      "item": "xiaoyu:xxzz"
+    }
+  },
+  "result": {
+    "item": "xiaoyu:zxzz",
+    "count": 1
+  }
+}

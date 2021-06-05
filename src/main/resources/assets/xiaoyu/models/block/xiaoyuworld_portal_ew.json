@@ -1,0 +1,40 @@
+{
+  "textures": {
+    "particle": "xiaoyu:blocks/mushroom_block_skin_stem",
+    "portal": "xiaoyu:blocks/mushroom_block_skin_stem"
+  },
+  "elements": [
+    {
+      "from": [
+        6,
+        0,
+        0
+      ],
+      "to": [
+        10,
+        16,
+        16
+      ],
+      "faces": {
+        "east": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#portal"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#portal"
+        }
+      }
+    }
+  ]
+}

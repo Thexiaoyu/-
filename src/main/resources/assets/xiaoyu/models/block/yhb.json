@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "xiaoyu:blocks/zk1",
+    "up": "xiaoyu:blocks/zk1",
+    "north": "xiaoyu:blocks/zk1",
+    "east": "xiaoyu:blocks/zk1",
+    "south": "xiaoyu:blocks/zk1",
+    "west": "xiaoyu:blocks/zk1",
+    "particle": "xiaoyu:blocks/zk1"
+  }
+}

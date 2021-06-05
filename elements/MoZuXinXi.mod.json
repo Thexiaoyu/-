@@ -1,0 +1,36 @@
+{
+  "_fv": 18,
+  "_type": "overlay",
+  "definition": {
+    "priority": "NORMAL",
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "",
+          "color": {
+            "value": -3342337,
+            "falpha": 0.0
+          },
+          "name": "",
+          "x": 316,
+          "y": 37
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "当前坐标 <x> <y> <z>",
+          "color": {
+            "value": -65485,
+            "falpha": 0.0
+          },
+          "name": "当前坐标 <x> <y> <z>",
+          "x": 313,
+          "y": 40
+        }
+      }
+    ],
+    "baseTexture": ""
+  }
+}

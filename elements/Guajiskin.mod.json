@@ -1,0 +1,58 @@
+{
+  "_fv": 18,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "gu_ji__head",
+    "enableBody": true,
+    "textureBody": "gu_ji__body",
+    "enableLeggings": true,
+    "textureLeggings": "gu_ji__leggings",
+    "enableBoots": true,
+    "textureBoots": "gu_ji__boots",
+    "creativeTab": {
+      "value": "CUSTOM:Xiaoyuxxk"
+    },
+    "armorTextureFile": "gu_ji_",
+    "helmetName": "ßÉßó Í·¿ø",
+    "bodyName": "ßÉßó ÐØ¼×",
+    "leggingsName": "ßÉßó »¤ÍÈ",
+    "bootsName": "ßÉßó Ñ¥×Ó",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 65,
+    "damageValueHelmet": 5,
+    "damageValueBody": 6,
+    "damageValueLeggings": 5,
+    "damageValueBoots": 2,
+    "enchantability": 10,
+    "toughness": 3.0,
+    "knockbackResistance": 0.2,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:YuDing"
+      }
+    ]
+  }
+}

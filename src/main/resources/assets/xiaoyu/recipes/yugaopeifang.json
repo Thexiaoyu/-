@@ -1,0 +1,30 @@
+{
+  "group": "yugaohech",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "xiaoyu:xaioyublock"
+    },
+    "1": {
+      "item": "xiaoyu:xaioyublock"
+    },
+    "2": {
+      "item": "xiaoyu:xaioyublock"
+    },
+    "4": {
+      "item": "xiaoyu:yu_gun"
+    },
+    "7": {
+      "item": "xiaoyu:yu_gun"
+    }
+  },
+  "result": {
+    "item": "xiaoyu:yu_gao",
+    "count": 1
+  }
+}

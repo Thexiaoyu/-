@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "xiaoyu",
+    "name": "xiaoyu",
+    "description": "@呱唧Team",
+    "version": "1.0.0",
+    "credits": "本模组由小呱Team制作",
+    "logoFile": "",
+    "mcversion": "1.12.2",
+    "url": "https://mcreator.net",
+    "updateUrl": "",
+    "authorList": [
+      "Thexiaoyu"
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "requiredMods": [],
+    "useDependencyInformation": "true"
+  }
+]
